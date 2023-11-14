@@ -36,3 +36,5 @@ function validCard(input) {
 
     return total % 10 == 0;
 }
+
+//https://www.youtube.com/watch?v=ugDRoGmt3dk
